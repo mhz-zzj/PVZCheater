@@ -1,4 +1,4 @@
-# MJ大神的C++教程植物大战僵尸项目
+# MJ大神的C++教程植物大战僵尸外挂
 
 源码地址：https://github.com/CoderMJLee/SeemygoPVZCheater
 
