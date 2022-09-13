@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  PVZCheater.cpp
+  PVZCheaterDlg.cpp
+F:\PVZCheater - 副本\PVZCheater\PVZCheater\PVZCheaterDlg.cpp(38,60): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPCVOID”
+F:\PVZCheater - 副本\PVZCheater\PVZCheater\PVZCheaterDlg.cpp(42,59): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPVOID”
+  正在生成代码...
+  PVZCheater.vcxproj -> F:\PVZCheater - 副本\PVZCheater\x64\Debug\PVZCheater.exe
